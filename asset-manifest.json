@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/henrikcheng.github.io/tic-tac-toe/static/css/main.46d748c7.css",
+    "main.js": "/henrikcheng.github.io/tic-tac-toe/static/js/main.01e0ca82.js",
+    "static/js/787.393238a3.chunk.js": "/henrikcheng.github.io/tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/henrikcheng.github.io/tic-tac-toe/index.html",
+    "main.46d748c7.css.map": "/henrikcheng.github.io/tic-tac-toe/static/css/main.46d748c7.css.map",
+    "main.01e0ca82.js.map": "/henrikcheng.github.io/tic-tac-toe/static/js/main.01e0ca82.js.map",
+    "787.393238a3.chunk.js.map": "/henrikcheng.github.io/tic-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d748c7.css",
+    "static/js/main.01e0ca82.js"
+  ]
+}
